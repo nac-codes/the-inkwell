@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Mono', sans-serif, -apple-system;
+    background-color:bisque;
+    color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+.container {
+    text-align: left;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color:black;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Style the tabs */
+.tabs button {
+    background-color: #f1f1f1;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tabs button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tabs button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tab-content {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+    max-height: 600px; /* Adjust based on your needs */
+    min-width: 200px;
+    overflow-y: auto; /* Enables vertical scrolling if content overflows */
+    padding: 10px;
+    border: 1px solid #ccc; /* Optional: adds a border around the tab content */
+    /* Additional styling for your tab content */
+}
+

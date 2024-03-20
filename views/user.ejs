@@ -1,0 +1,35 @@
+<!-- views/user.ejs -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Profile</title>
+    <!-- Add your CSS links here -->
+    <link rel="stylesheet" href="http://the-inkwell.io/stylesheets/index_style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" media="screen" href="//unpkg.com/@bitnami/hex/dist/hex.min.css"> -->
+</head>
+<body>
+    <h1>User Profile: <%= user.username %></h1>
+    <!-- Display more user-specific data here -->
+
+    <h2>Your Conversations:</h2>
+    <ul>
+        <% if(user.conversations && user.conversations.length > 0) { %>
+            <% user.conversations.forEach(function(conversation) { %>
+                <li><a href="/user/<%= user._id %>/<%= conversation._id %>">Conversation <%= conversation._id %></a></li>
+            <% }); %>
+        <% } else { %>
+            <p>No conversations found.</p>
+        <% } %>
+    </ul>
+
+    <button id="start-conversation-btn">Start New Conversation</button>
+    
+    <script>
+        const userId = '<%= user._id %>';
+    </script>
+
+    <script src="/javascripts/user_script.js"></script>
+   
+</body>
+</html>

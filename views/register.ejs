@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <!-- Add any additional head elements here (e.g., CSS links) -->
+    <link rel="stylesheet" href="stylesheets/index_style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>User Registration</h1>
+    <!-- Registration form -->
+    <form action="/register" method="post">
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+        </div>
+        <div>
+            <label for="fullname">Full Name:</label>
+            <input type="text" id="fullname" name="fullname" required>
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+        <div>
+            <button type="submit">Register</button>
+        </div>
+    </form>
+    <!-- Link to login page if users already have an account -->
+    <p>Already have an account? <a href="/login">Login here</a>.</p>
+</body>
+</html>

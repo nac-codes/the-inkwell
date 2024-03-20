@@ -1,0 +1,350 @@
+<!-- views/userProfile.ejs -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Conversation</title>
+    <!-- Add your CSS links here -->
+    <link rel="stylesheet" media="screen" href="//unpkg.com/@bitnami/hex/dist/hex.min.css">
+    <!-- get CSS from server -->
+    <!-- <link rel="stylesheet" href="/stylesheets/style.css"> -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        .container {
+            display: flex;
+        }
+        .chat-section {
+            flex: 3; /* Adjust as needed */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .prewriting-section {
+            flex: 2; /* Adjust as needed */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .conversations-panel {
+            flex-basis: 20%;
+            padding: 10px;
+            border-right: 1px solid #ccc; /* Visual separator */
+        }
+        .main-content {
+            display: flex;
+            flex-grow: 1;
+        }
+        /* Style for collapsible button */
+        .collapsible {
+            background-color: #f1f1f1;
+            color: #020000;
+            cursor: pointer;
+            padding: 10px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
+        .active, .collapsible:hover {
+            background-color: #ccc;
+        }
+        .content {
+            padding: 0 10px;
+            display: none;
+            overflow: hidden;
+        }
+        #conversation-content {
+            max-height: 300px; /* Adjust height as needed */
+            overflow-y: auto;
+        }
+        .content ul {
+            list-style-type: none; /* Remove bullet points */
+            padding: 0; /* Remove padding */
+            margin: 0; /* Remove margin */
+        }
+
+        .content li {
+            margin-bottom: 10px; /* Add space between list items */
+        }
+
+        .content li a {
+            display: block; /* Make the anchor fill the li */
+            padding: 5px; /* Add padding for click area */
+            background-color: #fff; /* Optional: background color */
+            text-decoration: none; /* Remove underline from links */
+            color: #d8d3d3; /* Text color */
+        }
+        .buffer {
+            height: 20px;
+        }
+
+        body {
+    background-color: #f5f1e6; /* Paper-like background */
+    color: #340034; /* Ink-like text color */
+    font-family: 'IBM Plex Mono', monospace; /* Consistent font family */
+    margin: 20px; /* Add margin for breathing room */
+}
+
+.container {
+    display: flex;
+    margin: 20px; /* Added to ensure consistency with margin adjustments */
+}
+
+.chat-section, .prewriting-section {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white to mimic paper */
+    box-sizing: border-box;
+    border-radius: 5px; /* Soften edges */
+}
+
+.conversations-panel {
+    flex-basis: 20%;
+    padding: 10px;
+    border-right: 1px solid #aaa; /* Adjusted for a softer look */
+    background-color: rgba(255, 255, 255, 0.6); /* Slightly more transparent */
+}
+
+.main-content {
+    display: flex;
+    flex-grow: 1;
+}
+
+.collapsible {
+    background-color: #eae0d5; /* Lighter, to blend with the theme */
+    color: #340034; /* Consistent text color */
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    border-radius: 5px; /* Added rounding */
+}
+
+.active, .collapsible:hover {
+    background-color: #dcd0c0; /* Slightly darker for interaction */
+}
+
+.content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.content li a {
+    background-color: #f5f1e6; /* Matching the body's background */
+    color: #340034; /* Consistent text color */
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* Additional adjustments for button and input aesthetics */
+button, input[type="submit"] {
+    background-color: #340034; /* Dark black-purple */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #1a001a; /* Slightly lighter on hover */
+}
+
+textarea, input[type="file"] {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    font-family: 'Great Vibes', cursive; /* Calligraphy font for headings */
+}
+
+button {
+    /* Existing styles */
+    padding: 10px 20px; /* Adjust as necessary */
+    line-height: 1.5; /* Ensures vertical centering */
+    display: inline-flex; /* Aligns content in the center */
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+}
+
+.custom-file-upload {
+    
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-flex; /* Aligns text */
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+}
+
+.custom-file-upload:hover {
+    background-color: #1a001a; /* Slightly lighter on hover */
+}
+
+.custom-file-upload {
+    font-family: 'IBM Plex Mono', monospace; /* Ensures font consistency */
+    font-size: 12px; /* Matches the font size of other buttons */
+    background-color: #880d88; /* Dark black-purple, to match other buttons */
+    color: white;
+    padding: 10px 20px; /* Adjusted padding to match the size of other buttons */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block; /* Changed to inline-block for better control */
+    margin-right: 10px; /* Adds spacing between this and any adjacent buttons */
+}
+
+
+
+    </style>
+</head>
+<body>
+    <!-- <h1>User Profile: <%= user.username %></h1> -->
+    <!-- Display more user-specific data here -->
+    
+
+    
+
+    <div class="container">
+
+        <div class="conversations-panel">
+            <button type="button" class="collapsible">Your Conversations</button>
+            <div class="content">
+                <ul id="conversations-list">
+                    <!-- Conversations will be dynamically added here -->
+                </ul>
+                <div class="buffer"></div>
+                <button id="start-conversation-btn">Start New Conversation</button>
+            </div>
+            
+            
+            
+        </div>
+        
+        <div class="main-content">
+            <div class="chat-section">
+                <!-- <h1>Chat with GPT</h1> -->
+
+                <h1>Conversation with <%= user.username %></h1>
+                <div id="conversation-content">
+                    <% conversation.content.forEach(function(entry) { %>
+                        <% if (entry.role && entry.message) { %>
+                            <p><%= entry.role.charAt(0).toUpperCase() + entry.role.slice(1) %>: <%= entry.message %></p>
+                        <% } %>
+                    <% }); %>
+                </div>
+
+
+                <div id="chat-box"></div>
+
+                <div id="responses"></div>
+            
+                <form id="chat-form">
+                    <textarea id="user-input" placeholder="Tell me what you're writing about" autocomplete="off" required rows="4" cols="50"></textarea>
+                    <button type="submit">Send</button>
+                </form>
+                
+                <div class="form-spacer" style="height: 20px;"></div> 
+                
+
+                <form id="uploadForm" enctype="multipart/form-data" style="border: none;"> <!-- Remove the form border -->
+                    <label for="file-upload" class="custom-file-upload">
+                        Attach Files
+                    </label>
+                    <input id="file-upload" type="file" name="files" multiple style="display: none;" />
+                    <input type="hidden" name="conversationId" value="<%= conversation._id %>" />
+                    <button type="submit">Upload Files</button>
+                </form>
+                
+                <p id="successMessage" style="display:none;"></p> <!-- Hidden by default -->
+            </div>
+                <div class="prewriting-section">
+                    <div class="tabs">                        
+                        <button class="tab-link" onclick="openTab(event, 'Pre-writing')">Pre-writing</button>
+                        <button class="tab-link" onclick="openTab(event, 'Outline')">Outline</button>
+                        <button class="tab-link" onclick="openTab(event, 'FinalText')">Final Text</button>
+                    </div>
+                
+                    <!-- Tab content -->     
+                    <div id="Pre-writing" class="tab-content">                        
+                        <p><strong>Topic:</strong> <span id="topic">Loading...</span></p>
+                        <p><strong>Thesis:</strong> <span id="thesis">Loading...</span></p>
+                        <p><strong>Tone:</strong> <span id="tone">Loading...</span></p>
+                    </div>
+                   
+                    <div id="Outline" class="tab-content" style="display:none;">
+                        <h2>Outline</h2>
+                        
+                    </div>
+                    <div id="FinalText" class="tab-content" style="display:none;">
+                        <h2>Final Text</h2>
+                        <!-- Final text content goes here -->
+                    </div>
+                </div>
+                
+            </div>
+        </div>  
+
+    </div>
+
+      <script>
+        // Function to scroll to the bottom of the conversation content
+        function scrollToBottom() {
+            var conversationContent = document.getElementById('conversation-content');
+            conversationContent.scrollTop = conversationContent.scrollHeight;
+        }
+
+        // Call the function on page load to scroll to the bottom
+        window.onload = scrollToBottom;
+
+
+        const conversationId = '<%= conversation._id %>';
+        const userId = '<%= user._id %>';
+
+        // JavaScript for collapsible conversations panel
+        var coll = document.getElementsByClassName("collapsible")[0];
+        coll.addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });      
+
+        // user_script.js
+        document.addEventListener('DOMContentLoaded', function() {
+            const startConversationButton = document.getElementById('start-conversation-btn');
+            console.log('User ID:', userId); // Replace with actual user ID
+
+            startConversationButton.addEventListener('click', async function() {
+                try {
+                    const response = await fetch(`/user/${userId}/start-conversation`, {
+                        method: 'POST',
+                    });
+
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+
+                    const result = await response.json();
+                    window.location.href = `/user/${userId}/${result.conversationId}`;
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            });
+        });
+
+    </script>
+  
+      <script src="/javascripts/conversation_script.js"></script>  
+   
+   
+</body>
+</html>

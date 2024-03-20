@@ -1,0 +1,1134 @@
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 1 ---
+Fascism and (Transnational) Social Movements: 
+A Reflection on Concepts and Theory in 
+Comparative Fascist Studies
+Tomislav Dulić 
+Hugo Valentin Centre, Uppsala University, Uppsala, Sweden
+tomislav.dulic@valentin.uu.se
+Abstract
+Scholars have recently begun advocating for the application of social movement 
+theory in the analysis of the rise and development of fascist political entities. While 
+representing a welcome effort to increase the theoretical depth in the analysis of 
+fascism, the approach remains hampered by conceptual deficiencies. The author 
+addresses some of these by the help of a critical discussion that problematises the 
+often incoherent ways in which the concept of ‘movement’ is used when describing 
+fascist political activity both within and across national borders. The analysis then 
+turns to the application of social movement theory to the historical example of the 
+Ustašas. While recent research on social movements has begun to explore the role 
+and character of transnationalism, this case study analysis suggests that the lack 
+of supra-national organisations during the period of ‘classic’ fascism prevented 
+the emergence of a ‘transnational public space’ where fascist movements could 
+have participated. The conclusion is that rather than acting and organising on a 
+‘transnational’ level, fascist entities appear to have limited themselves to state-based 
+international ‘knowledge-transfer’ of a traditional type.
+Keywords 
+Croatia – fascism – social movements – transnationalism – Ustaša ( uhro)
+In a recent article, Kevin Passmore argued for the need to use social move -
+ment theory in the analysis of fascism. Departing from a critique of ‘generic 
+© Tomislav DuliĆ, 2021 | doi:10.1163/22116257-10010008
+This is an open access article distributed under the terms of the prevailing cc-by license at the time of 
+publication.Fascism 10 (2021) 202-227
+Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 2 ---
+203
+fascism’ , he rebuked scholars for straying from the study of fascism per se to 
+analysing fascist practice in terms of institutional structures, symbolic actions, 
+or violence. He also argued that scholars have applied an outdated approach 
+to the analysis of these fascist movements, relying ‘unwittingly on understand-
+ings of social action derived from late nineteenth-century crowd psychology, 
+from which social movement theory has—in principle—liberated itself’.1 
+According to Passmore, a more sophisticated application of social movement 
+theory has the potential for a more dynamic approach that can better cap -
+ture the nature and transformation of fascist movements on both national and 
+transnational levels.2 At the same time and somewhat surprisingly, however, 
+he dismissed efforts to ‘enter into the (irresolvable) debate about whether or 
+not they actually were fascist or indeed whether or not they were social move -
+ments’.3 Instead, he provided an analysis of the way fascists appropriated the 
+concept ‘movement’ to seek legitimacy. While interesting, the approach also 
+resulted in a lack of conceptual clarity that sometimes becomes confusing. In 
+a reference to the Hungarian Arrow Cross, for instance, he argued ‘[t]he party 
+was more genuinely a social movement than earlier far-right groups had been 
+[my emphases]’.4
+Notwithstanding the conceptual deficiencies, Passmore’s valuable impasse 
+highlights issues that have not attracted enough attention in comparative fas -
+cist studies. Does it make sense to define fascist entities as social or political 
+movements? If so, can social movement theory help improve the analysis of 
+how fascist entities emerge, develop and transform? What can we learn from 
+recent advances in theory about transnational social movements when dis -
+cussing fascist cross-border cooperation? This article represents an effort to 
+explore these issues by using the Ustašas as an empirical example for a discus -
+sion of the term ‘movement’ and its applicability to fascist entities, and also to 
+explore fascist cross-border collaboration. The conclusion is that the Ustašas 
+headed an organisation rather than a movement, which is likely to be also true 
+1 Kevin Passmore, ‘Fascism as a Social Movement in a Transnational Context,’ in The History 
+of Social Movements in Global Perspective: A Survey, ed. Stefan Berger and Holger Nehring 
+(London: Palgrave Macmillan UK, 2017), 572.
+2 Ibid.
+3 Ibid., 583.
+4 Ibid., 602. A similar problem can be found in Bauerkämper and Rossilinski-Liebe’s interesting 
+Fascism Without Borders, where the former continuously refers to ‘movements and regimes’. 
+Even though the authors do not provide a definition that can distinguish between movements 
+and regimes, it seems all fascist organisations that are not regimes—in other words in 
+control of a state apparatus—are defined as ‘movements’; Arnd Bauerkämper and Grzegorz 
+Rossoliński, ed., Fascism Without Borders: Transnational Connections and Cooperation Between 
+Movements and Regimes in Europe from 1918 to 1945 (New York: Berghahn Books, 2017), 11.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 3 ---
+204
+for many other fascist entities that are regularly referred to as movements in 
+the literature. Based on an empirical analysis of Ustaša activities in Yugoslavia, 
+Italy, Hungary and Germany, I furthermore suggest that scholars revisit the 
+concept of transnationalism, due to its strong association with late twenti-
+eth-century globalisation processes and the emergence of a transnational pub -
+lic space that one cannot easily find in interwar Europe.
+The Concept of ‘Movement’ and its Use in Fascist Studies
+The conceptual puzzle was first brought to my attention almost two decades 
+ago when I noted the inconsistent manner in which the Ustašas referred to 
+themselves and their role in Croatian society. Their official name was Ustaša—
+Croatian Revolutionary Organisation [ uhro; Ustaša—Hrvatska revolucionarna 
+organizacija]. However, already in some of the founding documents the Ustašas 
+often referred to themselves as a movement ( pokret),5  a term that became dom-
+inant in the Independent State of Croatia [ndh; Nezavisna Država Hrvatska]. 
+The choice of terminology was not surprising, considering the character and 
+activities of the uhro . It is in the raison d’être of fascist leaders and groups to 
+portray themselves as representing ‘the People’ , in other words as an entity that 
+transcends the body politic to embody a ‘popular will’. Parties and other organ-
+isations, by contrast, speak on behalf of classes or other sub-groups within the 
+national community, which means they are divisive and competitive in charac-
+ter. Self-defining as a party therefore implies that one is merely representing one 
+of many political alternatives, competing in a ‘market of ideas’ for the support 
+of a constituency. Having gained power through a campaign of anti-democratic 
+activities and collaboration with the Axis Powers, the Ustašas could therefore 
+not style themselves as a ‘party’ , since that would contradict the very essence of 
+fascism as an alternative to a supposedly dysfunctional democracy.
+What I found intriguing was that many scholars referred to the uhro as a 
+movement with little or no discussion of the conceptual and theoretical implica-
+tions for doing so, while at the same time conceding they had few followers and 
+were largely inactive in Yugoslavia during most of the interwar period.6  One can 
+5 Nevenko Bartulin, The Racial Idea in the Independent State of Croatia: Origins and Theory, Vol. 4 
+(Leiden: Brill, 2014), 127.
+6 Fikreta Jelić-Butić belonged to the few Yugoslav scholars that showed an awareness of the 
+problem by pointing out that the Ustašas use of the concept movement ‘should be understood 
+only in the formal sense of the word’; Fikreta Jelić-Butić, Ustaše i NDH (Zagreb: SN Liber 
+Školska knjiga, 1977), 8.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 4 ---
+205
+find a similar lack of conceptual stringency in comparative fascist studies, where 
+the term ‘movement’ is used for an array of organisations.7  Sometimes, such as 
+with the Finnish Lapuan liike [Lapua Movement], one can perhaps speak of the 
+kind of network that signifies a movement.8  Defining the Norwegian Nasjonal 
+Samling as a movement is less convincing, considering it was established as a 
+political party in 1933 even before it had become ‘fascistised’.9  Similar problems 
+exist insofar as more well-known fascists are concerned. While Mussolini’s Fasci 
+d’Azione Rivoluzionaria may be considered a movement in its early stages, this is 
+hardly the case with the Partito Nazionale Fascista ( pnf), which already in 1921 
+‘aimed to redirect the movement’s activities to more conventional political and 
+parliamentary activity’.10 The situation is clearer with the Nationalsozialistischer 
+Deutsche Arbeiterpartei ( nsdap), which already in 1921 had a hierarchical organi-
+sational structure and a 25-point party programme.11 Even after being banned in 
+1923, the organisation continued its work as part of the Völkisch-Sozial Blok until 
+coming to power in 1933. The Spanish Falange Española de las jons emerged as a 
+fascist party in 1934 under a collective leadership comprising Ramiro Ledesma, 
+7 This is a weak spot in Bauerkämper and Rossiliński-Liebe’s edited volume, where the authors 
+argue that ‘[i]n conceptual terms, at least three dimensions of ‘transnational fascism’ are to 
+be distinguished’ , none of them being whether or not we are dealing with movements or 
+not, after which they intermittently refer to ‘fascist movements and regimes’; Bauerkämper 
+and Rossoliński, Fascism Without Borders, 2, passim.
+8 The movement emerged in 1929 as a reaction to communist activities and its ideology was 
+characterised by extreme nationalism, anticommunism and its activities by frequent use of 
+violence for political purposes. As a result of the violent activities and the so-called Mäntsäla 
+Uprising in 1932 (when demands were put forward to also prohibit the Social-Democratic 
+Party) the government declared the movement illegal and it subsequently transformed 
+into Isänmaallinen kansanliike [The Fartherland Party]; Ylva Stubbergaard, Stat, kris och 
+demokrati: Lapporörelsens inflytande i Finland 1929–1932 (Lund: Arkiv, 1996), 189–195.
+9 In his seminal study on fascism, Uglevik Larsen also points out that it is problematic to use 
+the term ‘fascist’ for Nasjonal Samling and many of its members, although ‘it was similar to 
+such parties on some crucial points of comparison, having e.g. adopted some of its party 
+program and organisational structure from the nsdap’; Stein Ugelvik Larsen, Bernt Hagtvet, 
+and Jan Petter Myklebust, Who Were the Fascists: Social Roots of European Fascism (Bergen: 
+Universitetsforlaget, 1980), 595.
+10 Philip Morgan, Italian Fascism, 1915–1945, 2nd ed. (Basingstoke: Palgrave Macmillan, 
+2003), 45.
+11 The inconsistency can be illustrated through The Wiley-Blackwell Encyclopedia of Social 
+and Political Movements. In Reichardt’s entry on ‘fascist movements’ we are told that they 
+are characterised by ‘[t]he absence of stable organs of decision-making or a bureaucratic 
+movement structure’ , while in Brustein’s entry on the ‘Nazi movement’ we read that Hitler 
+within a very short time after taking over he succeeded in establish ‘complete authority’ 
+while also issuing a 25-point party programme; David A. Snow et al., The Wiley-Blackwell 
+Encyclopedia of Social and Political Movements, Vol. I (Chichester: Wiley-Blackwell, 2013), 
+456, 824–826.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 5 ---
+206
+Ruiz de Alda and José Antonio Primo de Rivera. Once the Falangists reorganised 
+through a merger with Carlism under the direction of Francisco Franco, they 
+transformed into a party and monopolised political power in the government.12 
+Scholars have referred to all of these entities as ‘movements’ , sometimes by 
+lumping them together under ‘fascist organisations and movements’.13
+The ‘transnational turn’ in fascist studies has moreover led to a gradual 
+expansion of the attention to ‘European’ or even ‘global’ fascism,14 with refer -
+ences being made to ‘transnational fascism’ ,15 or ‘transnational fascist move -
+ments’.16 The trend raises a new set of questions, which concern the very 
+concept of transnationalism and its relation to movements. Theorists agree 
+that transnational social movements ( tsm) are spreading and gaining in 
+importance, with some arguing one should not only consider them a result of 
+recent globalisation trends but that some have existed for considerable time. 
+However, one also runs into a host of problems concerning the character of 
+tsm, their relationship to national movements, state authorities and interna-
+tional organisations. What is at stake is to understand if transnational move -
+ments act outside the framework of national movements that have access to 
+governments and polities; if their focus is on interaction with international 
+organisations; or if they coordinate and provide legitimacy for national move -
+ments and organisations.17 While the number of publications dealing with 
+12 Stanley G. Payne, The Franco Regime, 1936–1975  (Madison, Wis: University of Wisconsin 
+Press, 1987), 52–59.
+13 Bauerkämper and Rossoliński-Liebe’s otherwise important contribution is a case in 
+point. While referring to ‘cooperation between movements and regimes’ in the title, the 
+introduction only contains a discussion about ‘transnational fascism’ and no effort to 
+discuss how ideology and political praxis might be affected by the character of the entity, or 
+whether one can actually speak about transnational movements in the 1930s; Bauerkämper 
+and Rossoliński, Fascism Without Borders, 1–18.
+14 See Stefan Berger and Holger Nehring, The History of Social Movements in Global 
+Perspective: A Survey (London: Palgrave Macmillan, 2017); Raimo Vayrynen, ‘Sovereignty, 
+Globalization and Transnational Social Movements,’ International Relations of the Asia-
+Pacific 1, no. 2 (2001): 227–246; Dawn Wiest and Jackie Smith, ‘Explaining Participation 
+in Regional Transnational Social Movement Organizations,’ International Journal of 
+Comparative Sociology 48, no. 2–3 (2007): 137–166.
+15 Ángel Alcalde, ‘Towards Transnational Fascism: German Perceptions of Mussolini’s Fascists 
+and the Early nsdap ,’ Politics, Religion & Ideology 19, no. 2 (2018): 176–195.
+16 Samuel Huston Goodfellow, ‘Fascism as a Transnational Movement: The Case of Inter-War 
+Alsace,’ Contemporary European History 22, no. 1 (2013): 87–106.
+17 John A. Guidry, Michael D. Kennedy, and Mayer N. Zald, Globalizations and Social 
+Movements: Culture, Power, and the Transnational Public Sphere (Ann Arbor: University of 
+Michigan Press, 2000), 7–8.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 6 ---
+207
+transnational fascism has increased dramatically over recent years, few except 
+Passmore have even addressed these issues conceptually.
+Theorising Social Movements
+It is easy to understand why someone would refrain from venturing into the 
+cumbersome task of defining social movements, considering the plethora 
+of sometimes contradictory definitions. To begin with popularised percep -
+tions of the concept, Wikipedia relies on Shannon Deric’s definition of social 
+movements ‘as organisational structures and strategies that may empower 
+oppressed populations to mount effective challenges and resist the more pow -
+erful and advantaged elites’.18 Encyclopaedia Britannica, by contrast, defines 
+social movements as a ‘loosely organised but sustained campaign in support of 
+a social goal, typically either the implementation or the prevention of a change 
+in society’s structure or values’.19 Even though similarities exist between the 
+definitions, the latter do not necessarily view movements as a reaction of the 
+oppressed, while also allowing the inclusion of conservative movements that 
+strive for the prevention of change. The definitions also diverge regarding the 
+organisational form that characterises movements. While the former refers to 
+‘organisational structures’ , the latter focuses on the movement as action rather 
+than entity by putting the focus on the campaign rather than on the agent. We 
+find similar distinctions in Tilly’s definition of the social movement as ‘a sus -
+tained series of interaction between power-holders and persons successfully 
+claiming to speak on behalf of a constituency lacking formal representation, in 
+the course of which these persons make publicly visible claims for changes in 
+the distribution of the exercise of power, and back those demands with public 
+demonstrations of support’.20
+John McCarthy and Meyer N. Zald take the discussion in a slightly different 
+direction by defining movements as ‘a set of opinions and beliefs in a popula-
+tion, which represents preferences for changing some elements of the social 
+structure and/or reward distribution of a society’.21 Rucht has criticised both, 
+18 ‘Social Movement,’ Wikipedia, https://en.wikipedia.org/wiki/Social_movement#cite_note-
+:0–4, accessed February 15, 2021. See also Davita Silfen Glasberg and Deric Shannon, Political 
+Sociology: Oppression, Resistance, and the State  (Thousand Oaks, Calif. and London: Pine 
+Forge Press/Sage Publications, 2011), 150.
+19 ‘Social movement,’ Britannica.com, accessed February 15, 2021, https://www.britannica.com/
+topic/social-movement.
+20 Charles Tilly, From Mobilization to Revolution (New York: McGraw-Hill, 1978), 304.
+21 J. Craig Jenkins, ‘Resource Mobilization Theory and the Study of Social Movements,’ Annual 
+Review of Sociology 9, no. 1 (1983): 1217–1218.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 7 ---
+208
+positing that if defined as a series of interactions then the social movement 
+would confound those seeking change with the government they conflict with. 
+Meyer and Zald instead risk including those who may sympathise with a move -
+ment while doing nothing to support its activities. Rucht emphasises action to 
+a higher degree, describing the social movement as ‘[a] network of individuals, 
+groups and organisations that, based on a sense of collective identity, seek to 
+bring about social change (or resist social change) primarily by way of collec-
+tive public protest’.22
+Rucht’s definition provides a useful starting point for an analysis of fascist 
+movements. While presupposing the existence of some form of structure, 
+the definition does not restrict itself to movements driven by a reaction of 
+the oppressed and those seeking change. He also points out that while not 
+being an organisation, a movement can within its network include organisa-
+tions, ‘even those with a highly formalized character such as a political party’.23 
+Interestingly, here one finds a contradiction between Passmore’s reference to 
+Rucht and the claim that ‘one cannot solve the problem by dividing fascist 
+organizations into social and political components either, or indeed by dis -
+tinguishing between fascism-movement and fascism-regime’.24 As it turns out, 
+Rucht bases such distinctions on power relations: ‘Given this heterogeneity of 
+movement structures, it is no wonder that we may find within movements also 
+those organizational forms which we have analytically separated from move -
+ments, that is, interest groups and political parties. Only when one of these 
+organizations succeeds in reaching a hegemonic position—controlling virtu-
+ally all collective resources—would I no longer consider it a movement.’25
+Rucht’s observation brings us to a conclusion of key importance. From the 
+fact that fascist organisations and regimes like those in Italy or Hungary con-
+trolled ‘all collective resources’ in their respective countries, it follows that fas -
+cist networks would cease to make up movements after monopolising power, 
+and certainly after becoming the regime of a state. What is at stake, therefore, 
+22 Dieter Rucht, ‘Studying Social Movements: Some Conceptual Challenges,’ in The History 
+of Social Movements in Global Perspective: A Survey, ed. Stefan Berger and Holger Nehring 
+(London: Palgrave Macmillan UK, 2017).
+23 Ibid., 44.
+24 Passmore, ‘Fascism as Social Movement,’ 582.
+25 Dieter Rucht, ‘National Context and Movement Structures,’ in Comparative Perspectives on 
+Social Movements: Political Opportunities, Mobilizing Structures, and Cultural Framings, ed. 
+Doug MacAdam, John D. McCarthy and Mayer N. Zald (New York: Cambridge University 
+Press, 1996), 188. Diani concurs, positing that in ‘[w]hen this happens, as in the instances of 
+the Bolshevik Party in Russia or the National Socialist Party in Germany, it is more important 
+to drop the term “movement” altogether and concentrate instead on the concept of political 
+organization’; Mario Diani and Doug McAdam, Social Movements and Networks: Relational 
+Approaches to Collective Action (Oxford: Oxford University Press, 2003), 9–10.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 8 ---
+209
+is to understand the differences between movements and organisations and 
+the effects these might have on the strategies that will be applied depending 
+on structure. As will be shown below, it would also seem that fascists, while 
+using the term ‘movement’ as a way of rhetorically implying a popular support 
+that transcends class and other socio-economic delineations within a national 
+community, were fundamentally opposed to the very principles that provide 
+the basis for how social movements are organised.
+Distinguishing Between Organisations and Movements
+If movements ‘have no top and clear center’ while being something else than 
+organisations,26 what then distinguishes one from the other? Four of the key 
+features characterising organisations are that they a) do not seek to achieve 
+revolutionary societal change, b) try to maintain long-term stability by c) sys -
+tematising the work process and d) formalising decision-making procedures.27 
+Therefore, while movements have no formalised decision-making procedures 
+and usually dissolve or transform once they achieve their goals (they are 
+‘goal-oriented’), organisations such as parties and interest groups focus on ser -
+vicing a constituency or clients by performing activities in demand (they are 
+‘activity-oriented’). Another aspect is that movements orient their activities 
+towards entire social groups or classes, including those that take no active part 
+in the movement (e.g. working-class movement). Organisations are instead 
+client or member-oriented (e.g. Alcoholics Anonymous), although they may 
+also have a wider societal impact (for instance through the work of political 
+parties).
+Specialists have also identified a category of entities that bridge the dichot -
+omy between movement and political organisations, referred to in the litera-
+ture somewhat ambiguously as ‘party movements’ (or ‘movement parties’).28 
+These entities are often defined as ‘organizations [my emphasis] that have 
+attributes of both political parties and social movements’.29 Specifically, they 
+seek to overcome the shortcomings movements often grapple with in terms 
+of maintaining organisational stability and having access to legislative bodies. 
+26 Rucht, ‘Studying Social Movements,’ 44.
+27 ‘Formal organization,’ Encyclopaedia Britannica Academic, accessd June 23, 2019,  https://
+www.britannica.com/topic/formal-organization.
+28 See Marina Prentoulis and Lasse Thomassen, Movement Parties (Abingdon, Oxon; New York, 
+NY: Routledge, 2020).
+29 Mildred A. Schwartz, ‘Party Movements,’ in Oxford Research Encyclopedias, Politics (Oxford: 
+Oxford University Press, 2020).
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 9 ---
+210
+At the same time, they make use of movement strategies for the purpose of 
+a mobilisation that provides grassroots-level legitimacy.30 As pointed out by 
+Minkenberg, it should therefore come as no surprise that movement parties 
+have become a hallmark of the populist Right:
+Unlike other movement parties (such as the Greens in their early stag -
+es), radical right parties usually do not emanate from social move -
+ments, yet ‘apply the organizational and strategic practices of social 
+movements in the arena of party competition’. Moreover, based on 
+their activists’ and supporters’ basic value orientations and the radical 
+right’s particular (anti-egalitarian, top-down) approach to politics, rad-
+ical right parties typically exhibit the characteristics of a charismatic 
+leadership which runs the party in an authoritarian fashion and lends 
+the party organizational stability.31
+The observation alludes to the fact that organisation charts, formalised 
+decision-making bodies and procedures are distinguishing features of for -
+mal organisations, which exist in parallel with informal organisations. This 
+does not mean the latter lack hierarchies; these exist with the difference 
+that decision-making takes place through informal channels, with leaders 
+gaining legitimacy through interpersonal relationships, loyalties and per -
+sonal charisma. The distinction draws on Max Weber’s division of the three 
+different grounds for legitimising the right to authority:
+Rational grounds—resting on a belief in the ‘legality’ of patterns of nor -
+mative rules and the right of those elevated to authority under such rules 
+to issue commands (legal authority). Traditional grounds—resting on an 
+established belief in the sanctity of immemorial traditions and the legit -
+imacy of the status of those exercising authority under them (traditional 
+authority); or finally, charismatic grounds—resting on the devotion to 
+the specific and exceptional sanctity, heroism or exemplary character of 
+a person, and of the normative patterns or order revealed or ordained by 
+him (charismatic authority).32
+30 Ibid.
+31 Michael Minkenberg, ‘Between Party and Movement: Conceptual and Empirical 
+Considerations of the Radical Right’s Organizational Boundaries and Mobilization 
+Processes,’ European Societies 21, no. 4 (2019): 466. The author used the Austrian Freedom 
+Party, Lega Nord and the Swiss People’s Party as examples of party movements; Ibid. 467.
+32 Max Weber, A. M. Henderson and Talcott Parsons, The Theory of Social and Economic 
+Organization (New York: Oxford University Press, 2012), 328; see also Kieran Allen, Max 
+Weber: A Critical Introduction (London: Pluto Press, 2004), 100.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 10 ---
+211
+Weber’s classification provides a means by which to separate different deci-
+sion-making bodies and processes, with movements having certain similar -
+ities with informal organisations. Specifically, leaders of social movements 
+cannot claim legal authority and instead rely on a charismatic leadership that 
+provides popular legitimacy and strengthens their influence in contact with 
+other actors within and outside the governmental structures.33 Parties, on 
+the other hand, are usually governed by legal-rational decision-making pro -
+cedures and seek direct access to legislative bodies. Although being organ-
+isations—and often highly centralised, top-down ones at that—movement 
+parties instead apply movement strategies to overcome limitations insofar 
+as representation is concerned, while sometimes being part of movements.
+To summarise, social movements differ from organisations but may include 
+what is often referred to as social movement organisations (smo s) within the 
+network of entities that make up the movement.34 The smo s help articulate 
+policies, influence policy-makers and guide movement activities towards the 
+achievement of goals common to the movement. Such processes do not hap -
+pen in a vacuum and the interaction between smo s and authorities sometimes 
+also leads to the transformation of the former along what Kriesi has identified 
+as four basic ‘trajectories’.35 One development is to move toward institutional-
+isation. This means the organisation keeps its orientation towards influencing 
+authorities, but relinquishes direct participation as a critical feature for the 
+benefit of a formalisation of the decision-making process (the typical example 
+is when a smo turns into a political party). The second trajectory leads towards 
+commercialisation, transforming the smo into a service-provider to external 
+‘clients’ , which also entails a drastic reduction of direct participation in activi-
+ties. The third trajectory results in an involution whereby the smo transforms 
+into a service-provider that allows direct participation in activities, although 
+moving from being oriented towards authorities to focus on the smo constit -
+uency. This typically happens when the smo abandons the desire to achieve 
+social or political change and retreats into becoming an advocacy group repre -
+senting particular socio-economic or cultural substrata in society. One aspect 
+Kriesi did not develop that much concerns the radicalisation of the smo . Here, 
+he builds on Zald and Ash, who attribute radicalisation to a combination of a 
+charismatic leader and the emergence of an oligarchy that is more radical than 
+33 Snow et al., The Wiley-Blackwell Encyclopedia of Social and Political Movements, I, 176.
+34 Ibid., 1196.
+35 Hanspeter Kriesi, ‘New Social Movements in a Political Context,’ in Comparative Perspectives 
+on Social Movements: Political Opportunities, Mobilizing Structures, and Cultural Framings, 
+ed. Doug MacAdam, John D. McCarthy and N. Zald Mayer (New York: Cambridge University 
+Press, 1996).
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 11 ---
+212
+an increasingly apathetic core constituency. Leadership thus becomes critical, 
+as it is the role of the charismatic leader to mobilise the constituencies for 
+action.36
+Contentious Politics
+While some of the early thinkers believed the social movement emerged 
+due to the type of ‘crowd psychology’ Passmore argues has influenced fascist 
+figure 1 Kriesi’s Trajectory of Social Movement Organisations. Source: Kriesi, Hanspeter, 
+‘New Social Movements in a Political Context,’ in Comparative Perspectives on 
+Social Movements: Political Opportunities, Mobilizing Structures, and Cultural 
+Framings, ed. Doug MacAdam, John D. McCarthy and Mayer N. Zald (New York: 
+Cambridge University Press, 1996), 157. Reproduced with permission.
+36 Mayer N. Zald and Roberta Ash, ‘Social Movement Organizations: Growth, Decay and 
+Change,’ Social Forces 44, no. 3 (1966): 338–339. More recent research has rediscovered 
+Mathiesen’s concept of ‘the unfinished’ to explain how ‘abolitionist’ movements radicalise 
+to achieve sweeping political and social change; Andreas Armborst, ‘Radicalisation and 
+De-radicalisation of Social Movements: The Comeback of Political Islam?’ Crime, Law 
+and Social Change 62, no. 3 (2014). For an implementation of the model on the uhro , see 
+Tomislav Dulić and Goran Miljan, ‘The Ustašas and Fascism: “Abolitionism” , Revolution, and 
+Ideology (1929–1942),’ Journal of Soviet and Post-Soviet Politics and Society 6, no. 1 (2020): 
+281–309.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 12 ---
+213
+studies,37 adherents of Mass Society Theory instead focused on how individu-
+als joined extreme movements because of a sense of isolation brought about 
+by the increasing individualism of modern society.38 As argued by Tarrow, 
+however, Marxism probably provided the most persuasive framework through 
+its emphasis on ‘relative deprivation’ , although constantly grappling with the 
+issue of mass mobilisation. Departing from a structuralist approach, Marx 
+did not bother too much about exploring how the mobilisation would hap -
+pen. Rather, he viewed the emergence and growth of social movements as a 
+natural consequence of the inherent contradictions in the capitalist mode of 
+production, which resulted in an alienation and grievances that would enable 
+mobilisation. Disenchanted with the passivity of the working class, however, 
+Lenin looked for the answer in a ‘top-down’ approach that resulted in his idea 
+about a vanguard spearheading collective action. Gramsci, finally, believed the 
+answer to the limited capability of the working class to mobilise ‘from below’ 
+was a matter of a class-consciousness that he believed could be developed by 
+the help of ‘cultural hegemony’.39
+The post-Second World War period saw the development of several theo -
+retical approaches, most of which were essentially critical of the ‘relative dep -
+rivation model’ that had dominated the previous period. McCarthy, Zald and 
+other adherents of the ‘resource mobilisation theory’ came to exert a profound 
+influence on the field with a rational-choice inspired focus on how movements 
+identify goals, formulate strategies and mobilise human, infrastructural, finan-
+cial, ideational and other resources in pursuit of movement goals.40 Another 
+strand of thought had its roots in the Gramscian perspective and focused on 
+so-called framing processes, in other words how the movement would appeal 
+to the general public and thus achieve mobilisation through the proliferation 
+of ‘collective action frames’.41 Being an adherent of what later became known 
+as political opportunity theory, Tilly sought to understand why certain move -
+ments succeed while others did not by shifting focus to the public space in 
+which movements engage with policy-makers and other individual and collec-
+tive actors. He divided the space into a relatively secluded ‘polity’ , in which par -
+ties and other influential actors have direct access to political decision-making 
+37 Gustave Le Bon, The Crowd: A Study of the Popular Mind (London: T. Fisher Unwin, 1897).
+38 See William Kornhauser, The Politics of Mass Society (London: Routledge & Kegan Paul, 
+1960).
+39 Sidney G. Tarrow, Power in Movement: Social Movements and Contentious Politics, 3rd rev. and 
+updat. ed. (Cambridge; New York: Cambridge University Press, 2011), 17–20.
+40 Jenkins, ‘Resource Mobilization Theory and the Study of Social Movements,’ 532–533.
+41 Robert D. Benford and David A. Snow, ‘Framing Processes and Social Movements: An 
+Overview and Assessment,’ Annual review of sociology 26, no. 1 (2000): 611–639.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 13 ---
+214
+bodies, and an area outside the polity where there is no such direct access. 
+Being deprived of such access, challengers engage in coalition-building with 
+members of the polity or other ‘outsiders’ who have access to such actors, 
+while balancing between opportunities and threats. The authorities, for their 
+part, either facilitate movement activity by lowering the cost for mobilisation, 
+or resort to repression.42
+The character of the movement, its aims and the political context in which 
+it engages with the authority will furthermore affect the strategies it uses to 
+achieve its aims and goals, as well as the reactions of the authority. While some 
+movements will focus on the mobilisation of human, material and cultural 
+resources to influence the polity, others will turn to ‘agenda-setting’ via media 
+to create awareness-making, maintain in-group cohesion and attract follow -
+ers. Tilly’s approach involves what Tarrow termed ‘contentious politics’ , which 
+includes various forms of disruption such as sit-ins, public disturbances, riot -
+ing and intimidation, which are applied to increase pressure on the author -
+ities. Following Minkenberg, it seems this strategy is the most interesting to 
+apply when analysing right-wing “movement parties”:
+figure 2 Tilly’s Polity Model. Source: Sidney G. Tarrow, Power in Movement: Social Movements 
+and Contentious Politics (Cambridge and New York: Cambridge University Press, 
+2011), 21. Reproduced with permission.
+42 Tilly, From Mobilization to Revolution, 100, 33.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 14 ---
+215
+This organizational stability of successful radical right parties notwith-
+standing, they clearly qualify as movement parties in that they are con-
+tinuously engaged in ‘contentious politics’ as defined by Tilly and Tarrow, 
+that is, a process of collective claims making at the interplay of conten-
+tion, collective action and politics. They do not only challenge govern-
+ments as ‘targets, initiators of claims, or third parties’. They challenge all 
+other parties or even the political order in a populist style, rather than 
+merely seeking office or a change in policy.43
+Even though Tilly provides a useful framework for the analysis of processes of 
+contention and the situations in which movements emerge, he also confined 
+it to the interplay between national governments and movements seeking to 
+influence or even overthrow them. While allowing for the existence of ‘outside 
+actors’ , the model does not elaborate much on their interaction with external 
+state-based polities. This means Tilly’s model is restricted to a national perspec-
+tive that does not account for the activities of transnational social movements.
+Movement Activities in a ‘Transnational Space’
+Turning to transnationalism as a phenomenon, it appears that fascist entities 
+by and large restricted activities across national borders to various forms of 
+knowledge-transfer, rather than to coordinate contentious action directed 
+against international bodies or national governments. To define such forms 
+of cross-border interaction as transnationalism represents a departure from 
+what social scientists understand as transnationalism or transnational social 
+movements. Khagram et al., for instance, refer to three forms of transnational 
+activities, including transnational advocacy networks (focusing on informa-
+tion-exchange between non-governmental bodies in at least three countries), 
+transnational coalitions (coordinating shared strategies to bring about social 
+change) and transnational social movements (who mobilise sustained activ -
+ities in more than one country for the purpose of achieving social change).44 
+According to the authors, these ‘share some collective beliefs or collective action 
+frames’ and seek to influence norms in an ‘international arena’.45 Drawing on 
+43 Minkenberg, ‘Between Party and Movement,’ 467.
+44 Sanjeev Khagram, James V. Riker and Kathryn Sikkink, ‘From Santiago to Seattle: 
+Transnational Advocacy Groups Restructuring World Politics,’ in Restructuring World Politics: 
+Transnational Social Movements, Networks, and Norms, ed. Sanjeev Khagram, James V. Riker 
+and Kathryn Sikkink (University of Minnesota Press, 2002).
+45 Ibid., 15.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 15 ---
+216
+Habermas, Guidry et al. define the arena as a space beyond national bounda-
+ries that movements and organisations enter in pursuit of goals that cannot be 
+adequately addressed on a national level:
+Globalisation has in fact brought social movements together across bor -
+ders in a ‘transnational public sphere’ , a real as well as conceptual space 
+in which movement organizations interact, contest each other and their 
+objects, and learn from each other. ‘Action at a distance’ does not real-
+ly occur from a distance. This action originates somewhere, proceeds 
+through specific channels, does something, and has concrete effects in 
+particular places. That action is, however, mediated by discursive rela-
+tionships that are forged in a transnational public sphere.46
+One way of explaining the difference between transnationalism and interna-
+tional cooperation, in other words, is to depart from the Latin etymology and 
+view trans-nationalism as political activism ‘above’ or ‘beyond’ the national 
+level. Inter-national cooperation, by contrast, happens ‘between’ or ‘among’ 
+state-based entities that may engage in information exchange but do not 
+act in a transnational public space. However, the advancements have also 
+unearthed many controversies concerning political opportunity and mobili-
+sation structures and their relationship to the transnational space. As pointed 
+out by Hanna, tsm s often struggle when seeking to achieve a common ‘global 
+good’ due to the fact that international bodies lack the coercive means that 
+remain tightly associated with state sovereignty: ‘Despite globalization, there 
+is nothing to suggest state sovereignty is losing much of its operational value in 
+legal and political decision making, and thus one can hardly expect program-
+matic and sustained attempts to address climate change or nuclear weapons, 
+for example, without some kind of engagement with international institutions 
+and, at least, the prospect of inducing the action of nation-states.’47
+What relevance does this have for studies of ‘transnational fascism’ and how 
+are we to understand cross-border cooperation during the interwar period? If 
+considering that transnationalism plays out in a ‘transnational public space’ 
+above and beyond the nation-state, one immediately runs into two problems 
+of relevance. Firstly, one needs to identify a transnational public space that 
+46 John Guidry, Michael D. Kennedy, and Mayer Zald, ‘Globalizations and Social Movements,’ 
+in Globalizations and Social Movements: Culture, Power, and the Transnational Public Sphere  
+(Ann Arbor: University of Michigan Press, 2000), 3.
+47 Mark Hanna, ‘Between Law and Transnational Social Movement Organizations: Stabilizing 
+Expectations of Global Public Goods,’ Journal of Law and Society 44, no. 3 (2017): 347.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 16 ---
+217
+provides fascist entities—whether movements or smo s—with an arena in 
+which to act. This appears to be a challenge at a time when the development of 
+an international political arena with inter-governmental bodies hardly existed 
+with the exception of a few such as the League of Nations. Secondly, fascist 
+political actors were by and large ardent opponents to ‘internationalism’ and 
+any infringements on state sovereignty. Departing from how transnationalism 
+has been understood in the theoretical fields from which the concept emerged, 
+it therefore remains to be seen whether a transnational fascist movement that 
+worked for a fascist ‘global common good’ by acting in a transnational public 
+space ever existed.
+To summarise, there is a need for the field of fascist studies to engage in a 
+discussion with the concept of transnationalism in a logically coherent way that 
+makes it possible to distinguish what is commonly understood as transnation-
+alism from the type of exchange of goods, services and ideas that traditionally 
+characterised international cooperation and which by and large happened on 
+a bilateral level. To do so, I develop Tilly’s model by proposing a matrix that 
+provides an overview of how networks of international movements transcend 
+jurisdictions and may influence governments in several countries by acting 
+on a vertical ‘transnational public space’ identified by Guidry et al. to pursue 
+a ‘common good’. This allows accounting for the fact that when an actor finds 
+itself outside the jurisdiction of one state it is almost always within the juris -
+diction of another. I therefore divide the model into a grey box representing a 
+government, a box with a dotted line representing the limit of a polity within 
+each state and a full line representing the limits of state jurisdiction. Inside the 
+jurisdiction, we have smo s, which form coalitions (full arrow line) and seek to 
+figure 3 Matrix of Transnational Social Movement Activity.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 17 ---
+218
+exert influence (dotted arrow line) on political parties or individuals (‘P’) and 
+other organisations to influence the government and its policies. Adding to this 
+is a vertical space containing a transnational social movement ( tsm), which 
+the state-based smo s form part of. The model illustrates that tsm s differ from 
+traditional state-based movements by not having a direct legal or other influ-
+ence on polities. They can influence a variety of international bodies, even to 
+the point of enacting laws and regulations on the international level, but since 
+executive powers rest with sovereignty, the tsm will always be at a disadvantage 
+if states refuse to pass regulations. The tsm is instead a network of state-based 
+smo s, through which it might affect national polities, although it may also influ-
+ence governments through international organisations (io) such as the UN. As 
+a result, they instead seek to influence the nation-based smo s, which for their 
+part use references to international or transnational movements for the pur -
+pose of legitimizing their demands on authorities. Whether the organisations 
+are part of transnational movements will furthermore affect political opportu-
+nity structures (the adoption of international treaties or laws might provide a 
+window of opportunity for action), mobilisation structures (through the inter -
+nationalisation of the recruitment base to include non-national members in 
+national smo s) and framing processes (by providing an argument for referring 
+to international norms or threats as a means by which to mobilise constitu-
+encies). This also means smo A in country X that is in no direct coalition with 
+smo B in country Y can still exert an influence on the smo through either smo  
+C in country Z or through the tsm X 2. I furthermore assume the interactions 
+between smo s and tsm s will affect the ideational and structural evolution of 
+the smo , not least in terms of ideology, activism and framing.
+Empirical Analysis
+While there is debate regarding the exact date for the establishment of uhro , 
+scholars trace its origins to the interwar Hrvatska Stranka Prava [hsp; Croatian 
+Party of Rights]. Ante Pavelić became the party secretary of hsp in 1927 when 
+following a trip to Paris he travelled to Rome to hand over a memorandum 
+regarding collaboration with the Italian regime to establish an independent 
+Croatia under Italian tutelage.48 The next stage in his development came 
+48 I documenti diplomatici italiani, vol. V, Settima serie (Roma: Commissione per la 
+pubblicazione dei documenti diplomatici, 1967), 303–305; see also Jozo Tomasevich, War 
+and Revolution in Yugoslavia 1941–1945: Occupation and Collaboration (Stanford: Stanford 
+University Press, 2001), 30.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 18 ---
+219
+following the mortal wounding of Stjepan Radić, the leader of the Hrvatska 
+seljačka stranka [hss; Croatian Peasant’s Party] in the Yugoslav parliament 
+on 28 June 1928.49 Fearing a dissolution of the state, King Alexander abol-
+ished the constitution on 6 January 1941, which prompted Pavelić to leave for 
+Bulgaria later the same month. In Sofia, he met Gustav Perčec and issued the 
+‘Sofia Declaration’ , which stipulated cooperation with the Vnatrešna makedon-
+ska revolucionerna organisacija [ vmro; Internal Macedonian Revolutionary 
+Organisation] for the dissolution of Yugoslavia.50 This stage in the evolution of 
+uhro is of theoretical importance, as it means that even before the existence 
+of an Ustaša ‘fascist movement’ on Yugoslav soil, its leaders left the country 
+altogether to seek support abroad. In Bulgaria, Pavelić met with members of a 
+radical organisation with ties to members of the Bulgarian polity (albeit indi-
+rectly with the government), which were no more fascist at the time than the 
+uhro . In the early 1930s, these organisations can best be described as right-
+wing terrorist organisations working for national independence through polit -
+ical violence.
+Pavelić’s stay in Bulgaria had a profound effect on his further development 
+as a politician and on the articulation of a radical agenda of the uhro . First, 
+by establishing contacts with vmro , he embarked on a strategy character -
+ised by terrorist violence, resulting in the assassination of King Alexander ii  
+and French Foreign Minister Louis Barthou in Marseille in 1934. Second, his 
+contacts with vmro and the inflammatory speeches he gave provoked the 
+Yugoslav government to sentence Pavelić to death in absentia on 17 July 1930. 51 
+Third, it meant Pavelić became a pariah with no way back into the polity of 
+Yugoslavia. He settled in Italy until 1931, where he found himself under intern-
+ment because of the regicide in 1934. It was during this period that his political 
+ideology underwent a further radicalisation.
+Establishment of uhro
+The gradual process of fascistisation began after the formulation of the 
+Constitution of the Ustaša Organisation in 1932, which also can be seen as the 
+final stage in the establishment of a terrorist organisation. The Constitution 
+defined uhro as ‘a revolutionary organisation’ , with the goal to establish an 
+49 Ibid., 25.
+50 Jelić-Butić, Ustaše i ndh, 20.
+51 Mario Jareb, Ustaško-domobranski pokret: od nastanka do travnja 1941. godine (Zagreb: 
+Školska knj., 2006), 83.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 19 ---
+220
+independent state ‘throughout the entire national and historical territory’ 
+where Croats lived.52 It also stipulated that Croats would be the owners of all 
+the ‘real and spiritual assets’ of the state after its creation. The Constitution 
+then moves to a discussion of the organisational structure of uhro , which 
+the Ustaša based on a combination of Weber’s legal-rational and charismatic 
+principles of authority. First (points 3–6), the principles described the organi-
+sational structure of the uhro , subdivided into tabor, logor, stožer and Glavni 
+Ustaški Stan [gus; Ustaša Headquarters], which elected the Poglavnik, sub -
+ordinated leaders (stožernik, logornik, tabornik) and various officials and spe -
+cialists. The Constitution stipulated that ‘any Croat’ capable of carrying out 
+the struggle and showing absolute loyalty could join the organisation, while 
+only the Poglavnik had the right to relieve a member of his or her duties. It 
+moreover contained the text of an oath of allegiance each new member had 
+to swear and which envisaged complete obedience to the Poglavnik personally 
+and other superiors under penalty of death. Two points (12–13) regulated the 
+work of the Ustaša Court and clarified that the Ustaša Headquarters would 
+decide on some other matters relating to the organisational work.
+Adding to the Constitution were fifteen (later expanded to seventeen) 
+Ustaša Principles from June 1933, which had the aim of a) defining the Croatian 
+nation as distinct from the ‘eastern’ Serbs and b) to give a historical motive for 
+the establishment of an independent state. Points 1–5 dealt with the ancient 
+and medieval history of the Croats, describing them as a formed and organised 
+nation at the time of arrival in their own Croatian state’ , the right to which 
+it retained until the First World War. Points 8–12 dealt with the regenerative 
+element of the Croatian nation and its right to rule, where one reiterated the 
+historical right of Croats to recreate their own state throughout the historical 
+and national territory. The Principles further stipulated that Croats ‘belong to 
+the western culture and civilisation’; that the peasantry formed the basis of 
+the Croatian nation; and that only Croats ‘by blood’ had a place in the national 
+community.53
+Insofar as the organisational structure is concerned, it basically followed the 
+leader principle to the letter, which is evident not least from the establishment 
+of the gus in 1932. The body represented a form of ‘government-in-exile’ that 
+consisted of two parts: the Poglavnik’s Adjutant Assembly (Poglavnički zbor) 
+with seven members and a Council (Doglavničko vijeće) consisting of twelve 
+52 The ideological basis for these claims derived from ‘pravaštvo’ (from ‘rights’ in the legal 
+sense), the idea that Croatia should be established on the entire territory of the state that 
+joined in a personal union with the Hungarian King Coloman I in 1102.
+53 The text of the Principles is reproduced in Jareb, Ustaško-domobranski pokret, 124–128.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 20 ---
+221
+officials. As Jelić-Butić points out, the gus was never formally convened and 
+it is unclear who its members—which were formally appointed by Pavelić—
+actually were. Accordingly, ‘authority over the organisation was in the hands 
+of the Ustasha leader, on whose will depended the position of each individual 
+member, including the most prominent one’ , which lead her to conclude:
+As the ideological and organisational founder of Ustashism, Pavelić tried 
+his best to be the only inspirer in attracting and gathering members of 
+the Ustasha organisation. In any case, this also influenced the formula-
+tion of the mentioned hierarchical status of the Ustasha organisation. 
+Pavelić paid full attention to the creation of the Ustasha organisation not 
+only in Italy, where he participated most directly, but in all other regions 
+as well, where his most loyal associates created the Ustasha organisation 
+exclusively on his behalf. Undoubtedly, due to personal interests, there 
+was rivalry in the ranks of the Ustasha emigration, in other words con-
+flicts between individuals and affluent or less influential Ustasha offi-
+cials. However, there was no serious opposition to Pavelic himself even 
+among the more influential groups, which could jeopardise his position 
+and weaken his authority.54
+Jelić-Butić’s characterisation of the uhro illustrates that it was deeply 
+engrained in the movement from the onset and allegiance to the Poglavnik 
+was not merely a matter of paying lip service to the leader. Those who joined 
+the uhro did so in full knowledge of the fact that transgressions would result 
+in their death (which also happened on a few occasions). The top echelons 
+of the UHRO refrained from challenging Pavelić, with the notable exception 
+of what seems to have been a half-hearted effort by Branko Jelić in the spring 
+of 1934 to gain influence and possibly challenge Pavelić himself. The episode 
+was nipped in the bud and if anything strengthened Pavelić as the undisputed 
+leader of the uhro for the duration of the interwar period.55 Looking back on 
+the creation of the ndh state, Mile Budak (at the time Minister of Culture) 
+argued in August 1941 that it ‘was the deed of the Poglavnik . . .  others have par -
+ticipated as well, but without him – everything would . . . wait for its leader’.56 
+54 Jelić-Butić, Ustaše i ndh.
+55 Mile Budak, ‘Omladina je izvršila svoju dužnost,’ in Ustaška mladež – omladinski prilog 
+Ustaše, 3 August 1941, no. 5, 3, quoted in Goran Miljan, Croatia and the Rise of Fascism: The 
+Youth Movement and the Ustasha During WWII (London, New York: I.B. Tauris, 2018), 53.
+56 Goran Miljan, Croatia and The Rise of Fascism: The youth Movement and the Ustasha During 
+WWII (London: I.B. Tauris, 2018), 53.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 21 ---
+222
+It is thus not only that there was no serious challenge to Pavelić; he became 
+the centrepiece of a personal cult that turned him into the embodiment of the 
+nation and the one individual without whom there would simply not be an 
+independent Croatian state. This also meant the classic distinction between 
+the legislative and executive branches of government did not exist in the ndh, 
+‘because all state powers were transferred into the hands of the executive 
+[branch] headed by the Poglavnik’.57
+Transnational Activities
+The extent to which the UHRO became fully ‘fascistised’ in the 1930s has been 
+debated and is a topic that cannot be dealt with in detail here.58 Suffice it to say 
+that while the Ustaša did not elaborate very much on fascist ideology and its 
+relationship to the Croatian nation in the first half of the 1930s, Pavelić firmly 
+positioned Ustaštvo in the camp of European fascism. This is clear in his book 
+Strahote zabluda (published in Siena in 1938). The book represented a thor -
+ough dismissal of communism as not only a political danger, but also as a dan-
+ger to humanity, morality and the family:
+Fascism emerged in the west on the ravages of democracy, which could 
+not oppose Bolshevism when it wanted to invade from Russia to the west. 
+Her system, her methods of work and the resources she could muster, 
+could not measure and even less suppress and defy the ways of the work 
+of Bolshevism and its means of struggle, just as a fishing boat cannot op -
+pose a battleship. Something new, something stronger and more capable 
+of fighting Bolshevism was needed, capable of defeating it. And this has 
+been found in fascism. Of course, fascism first had to remove democracy, 
+which proved to be inadequate and incompetent for that struggle.59
+The period 1938–1940 is especially interesting also from a theoretical point 
+of view because political developments opened for the uhro , while still 
+being banned, to act inside Yugoslavia by proxy. Believing they could control 
+the Ustašas, the Yugoslav government reached an agreement with Italy that 
+57 Miloš Zdravković, ‘Ustavnopravni temelji Nezavisne Države Hrvatske,’ Anali pravnog 
+fakulteta u Beogradu 67, no. 1 (2019): 127.
+58 For more details on the fascitisation of the Ustaša organisation, see Dulić and Miljan, ‘The 
+Ustašas and Fascism.’
+59 Ante Pavelić, Strahote zabluda: komunizam i boljševizam u Rusiji i u svijetu (Zagreb: 
+Croatiaprojekt, 2000), 49.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 22 ---
+223
+allowed for the return of exiled Ustašas including Mile Budak to the country. 
+The sworn-in Ustaša members immediately embarked on a propaganda and 
+networking campaign that involved the creation of journals such as Hrvatski 
+Narod, Hrvatska Smotra and Hrvatska Revija, all of which published articles 
+questioning the Versailles Agreement and engaged with other contentious 
+issues. During this period, the organisation also developed ‘transnational’ 
+cooperation with several other fascist and right-wing organisations. Contacts 
+were of course established with the Italian fascists early on, as well as with 
+the nsdap . Apart from that, however, the Ustašas also cooperated with some 
+influential revolutionary nationalist organisations, such as the Organisation 
+of Ukrainian Nationalists (oun), while trying albeit being less successful in 
+attracting support from various Croatian emigrant organisations in coun-
+tries such as Belgium, the United States and Argentina.60 While remaining in 
+Italy, Pavelić and the Ustaša leadership worked with its representatives inside 
+Yugoslavia to establish alliances with nationalist individuals and organisations 
+such as the cooperative Uzdanica and the academic society August Šenoa.61 
+The network is reminiscent of a movement with its organisations and net -
+works that crossed national borders. However, it is questionable whether these 
+entities were part of a movement that can be termed fascist in any meaningful 
+way, or if we are dealing with a nationalist movement for Croatian independ-
+ence led by a fascist organisation. Neither did the uhro work for a ‘common 
+good’ with fascist or right-wing entities in other countries, but instead focused 
+on national independence for Croatia.
+Independent State of Croatia
+By the time uhro had transformed into a fascist entity, political events once 
+more played tricks with the prospect of Croatian statehood. After first becom-
+ing disenchanted with the hss leadership under Vladimir Maček following 
+the establishment of Banovina Hrvatska in 1939 and the latter’s entry into the 
+Yugoslav government, the Ustaša once again found themselves sidestepped by 
+political developments. Even though the outbreak of the Second World War 
+at first suggested the destruction of Yugoslavia was a matter of time, Berlin 
+disappointed by starting negotiations with Belgrade to have Yugoslavia join 
+the Tripartite Pact. The talks intensified in the autumn of 1940 because of the 
+Italian debacle during the Greek campaign and culminated with Yugoslavia’s 
+60 Jelić-Butić, Ustaše i ndh, 27–29.
+61 Ibid., 43, 50.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 23 ---
+224
+signing of the pact on 25 March 1941.62 Ustaša propaganda during late 1940 
+illustrates well the disappointment felt by the Ustaša elite. While having pre -
+sented the ‘maximalist’ version of ‘Greater Croatia’ (including Montenegro, 
+Sandžak and Bačka) as its goal through propaganda in the autumn of 1940,63 
+Pavelić found himself sidestepped by the new turn of events. Evidently dis -
+traught by the prospect of not being able to re-establish Croatia as an inde -
+pendent state anytime soon—if at all—he issued a propaganda leaflet that 
+shows the preparedness of uhro to compromise even on the key ‘thousand 
+years dream’ of independence:
+The time has come when we, the Croatian nationalists, have to speak open-
+ly. For far too long, too many of us have been uttering the liberal-democrat -
+ic phrases—‘liberation’ , ‘independence’ and ‘peace’ . . . . There will be no 
+independence until we voluntarily adapt to the science of fascism and its 
+leaders; there will be no peace for as long as our Italian brothers are pre -
+occupied with such a bitter struggle . . . . What will happen after the war? I 
+have received a holy vow by the Duce himself, that Croatia and her services 
+will not remain unrewarded. She will have a perfect part to play in the ‘new 
+order’ as a bridge between fascist Italy and national socialist Germany . . . . 
+Although borders will divide us, we will be united in a spirit of devotion to 
+the totalitarian ideals.64
+Following a coup d’état in Belgrade on 27 March 1941, a major political change 
+occurred that had a profound effect on various levels. Because of the invasion 
+of Yugoslavia in April 1941, the organisation became a state-founding political 
+party endowed with control over a military, a state apparatus, an education 
+system and various media outlets. The speed with which the new state author -
+ities reorganised the state apparatus to mimic the fascist system of joining the 
+party structures with governmental authorities; implementation of a ‘charis -
+matic’ leadership embodied in the Poglavnik; adoption of racial laws and a 
+concentration camp system; and efforts to educate the youth into the ideals 
+of the ‘new man’ show that the uhro had adopted fascism as a core ideol-
+ogy. The revolution aimed to achieve the totalitarian remoulding of the society 
+and population and introducing a totalitarian system described in a speech 
+by Mirko Puk, the Minister of Justice and Religion, during the meeting of the 
+Sabor in early 1942:
+62 Tomasevich, War and Revolution in Yugoslavia 1941–1945, 46.
+63 Croatian State Archives, Stampata ndh ( zb-xviii-L-29/1318).
+64 Croatian State Archives, Stampata ndh ( zb-xviii-L-29/1340).
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 24 ---
+225
+The authoritarian state refutes the legal theories that have existed so far, 
+according to which all people are equal and instead adopts another prin-
+ciple of the selection of human beings. According to that and the spirit 
+of the Ustaša Principles, the new legal system had to be organised ac-
+cording to the principles of leadership, the so-called Führer-principle . . . 
+The authoritarian state, the state of the new order, is not a despotism, a 
+satrapy, but a state where the leader rules, as the best among the people, 
+in cooperation with the other good and best members of a people, where 
+in accordance with the legal form he decides after listening to them and 
+makes his own decision.65
+It should be clear from the aforementioned that there is in fact little in the 
+Ustaša Constitution that suggests it resembled anything akin to a social or 
+political movement, but in fact was an organisation with a clear and hierar -
+chically organised and ‘top-down’ decision-making structure. The question, 
+therefore, is whether one could view it as a part of a (nationalist) Croatian 
+movement during the brief period it collaborated with Uzdanica and others 
+in 1936–1940, or if it was an smo in the framework of a European-wide fascist 
+movement. This, it seems at first glance, is more reasonable, because within 
+a relatively short time after the adoption of the Principles, the uhro began a 
+gradual process of fascistisation that was directly influenced by its relationship 
+to Italy. In the case of Croatia, however, the uhro leadership soon monopo -
+lised virtually all means of collective action in line with Rucht’s argument.
+Conclusion
+As shown in the empirical analysis, the uhro was established as a terrorist 
+organisation in the early 1930s. The Ustašas coordinated their activities with 
+the regimes in Hungary and Italy and through vmro in Bulgaria with its ties 
+to parts of the Bulgarian polity. The uhro was hierarchically organised with 
+a very strict top-down command structure that emphasised obedience until 
+death, where the principle of charismatic authority was important. Although 
+it initially focused on one question—the independence of Croatia—which 
+is characteristic of social movements, the decision-making structure of 
+uhro is hardly reminiscent of what scholars usually mean when referring to 
+65 Brzopisni zapisci prvog zasjedanja Hrvatskog državnog sabora u Nezavisnoj Državi Hrvatskoj 
+godine 1942. Od I. do XII. saborske sjednice od 23. veljače do 28. prosinca 1942 (Zagreb: Hrvatski 
+Državni Sabor, 1942), 37–38.
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 25 ---
+226
+‘movements’. Neither was it a movement party, but a terrorist organisation that 
+existed mainly outside of Yugoslavia and had no access to the state polity.
+Concluding that the uhro was not a movement begs the question whether 
+or not we can regard it as an smo within the framework of a transnational 
+fascist movement. The uhro was definitively part of a web of fascist organisa-
+tions that provided both ideological guidance and identified enemies against 
+which it was fighting, including the pnf , vmro , oun and authorities in revan-
+chist Hungary. This notwithstanding, one also needs to remember that some 
+of the entities they interacted with can hardly be considered fascist. Even if 
+removing the non-fascist entities from the would-be transnational fascist 
+movement, one is left with the problem of identifying the counterpart with 
+which the supposed movement is interacting in order to achieve what can be 
+considered a reasonable ‘common good’ that united the different entities that 
+made up the movement. Overall, fascist entities acted in a context dominated 
+by the nation-state that had not yet begun to be challenged by the structural 
+changes brought about by late twentieth-century globalisation processes. As a 
+result, there was in fact not very much that networks of fascist entities could 
+do to influence governments ‘from above’ and they by and large limited their 
+activities to international exchange through state-based organisations such as 
+Comitati d’Azione per l’Università di Roma (caur), Fasci Italiani all’Estero or the 
+youth organisations Balilla and Gioventù italiana del Littorio all’estero.66
+This serves to illustrate that efforts to study European fascism as a trans -
+national movement runs into several theoretical problems that have hardly 
+been addressed in comparative fascist studies. While today we speak of trans -
+national movements that act on the ‘transnational space’ referred to by Guidry 
+et al., such arenas hardly existed during the interwar period and even if they 
+did, they would be difficult to reconcile with a fascist political ideology funda-
+mentally opposed to ‘internationalism’ that would curtail sovereignty in any 
+way. This is not to say that one cannot use the term ‘transnational’ in a different 
+way to denote what essentially is international knowledge-transfer between 
+state-based and even governmental entities. However, this type of expansion 
+of transnationalism as a concept obscures the distinction that is often made 
+between the type of activities ‘above’ or ‘beyond’ the state and international 
+knowledge-transfer that had no wider goals.
+66 Luca de Caprariis, “‘Fascism for Export’? The Rise and Eclipse of the Fasci Italiani all’Estero,’ 
+Journal of Contemporary History 35, no. 2 (2000): 151–183; Katharina Schembs, ‘Fascist Youth 
+Organizations and Propaganda in a Transnational Perspective: Balilla and Gioventù Italiana 
+del Littorio All’estero in Argentina (1922–1955),’ Amnis no. 12 (2013), https://doi.org/10.4000/
+amnis.2021.
+dulić
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
+File: --- Fascism and (Transnational) Social Movements.pdf --- Page 26 ---
+227
+While these aspects point to a need for more conceptual groundwork to 
+be done before fascism can be studied as a movement (transnational or oth-
+erwise), one also needs to keep in mind that this analysis dealt with one of 
+many fascist entities. Social movement theory might therefore still provide a 
+useful tool for the analysis of entities that might be more reasonably defined 
+as movements than the uhro . However, there are some alternatives to social 
+movement theory, which should be considered for those seeking to under -
+stand the way in which fascist entities organise, mobilise and function from a 
+theoretical point of view. As Diani and Bison point out, not all collective action 
+is attributable to social movements. This is particularly true of the ‘conflictual 
+organisational processes’ into which they put Nazi and Bolshevik revolution-
+ary activities ‘where actors with legitimacy to mobilise will be those who do so 
+through organisations, and there will be few opportunities for individuals to 
+play any role unless their participation is mediated by specific organisations’.67 
+In a recent effort to bridge the theoretical and conceptual gap between social 
+movement and organisation theory, Clemens furthermore draws our attention 
+to the fact that social movement theory deals with the relationships among 
+smo s and individuals that make up movements.68 Organisation theory, by 
+contrast, deals with relationships within organisations. Keeping this in mind, 
+comparative analyses should pay more attention to organisation theory while 
+also trying to better understand how at least some fascist entities that can 
+be understood as social movements transform into political organisations 
+(whether parties or movement parties), which will also deepen the analysis of 
+transnational—or perhaps better international—fascism. A more precise and 
+theoretically well-founded understanding and implementation of concepts 
+and theory would probably also help explain the nature of fascist ideology and 
+praxis and its transformation over time.
+67 Mario Diani and Ivano Bison, ‘Organizations, Coalitions, and Movements,’ Theory and 
+Society 33, no. 3/4 (2004): 286.
+68 Elisabeth S. Clemens, ‘Two Kinds of Stuff: The Current Encounter of Social Movements and 
+Organisations,’ in Social Movements and Organisation Theory, ed. Gerald F. Davis et al. (New 
+York, N.Y: Cambridge University Press, 2005).
+fascism and (transnational) social movements
+Fascism 10 (2021) 202-227Downloaded from Brill.com 12/19/2023 03:08:02AM
+via Open Access. This is an open access article distributed under the terms
+of the prevailing CC-BY license at the time of publication.
+https://creativecommons.org/licenses/by/4.0/
+
